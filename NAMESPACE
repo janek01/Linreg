@@ -1,0 +1,3 @@
+importFrom("stats", "model.frame", "model.matrix", "model.response")
+
+exportPattern("^[[:alpha:]]+")
